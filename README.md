@@ -6,7 +6,7 @@ I’m **Emmanuel López**, a passionate Full Stack Developer and **Computer Engi
 
 ## 🚀 About Me
 
-- 🎓 Graduated in Computer Engineering (License No.: \_\_\_)
+- 🎓 Graduated in Computer Engineering (License No.: 14866452)
 - 🌐 Proficient in building web applications from concept to deploy
 - 🛠️ Strong problem-solver and lifelong learner
 - 🌱 Currently exploring **Astro** and advanced **React** patterns
@@ -32,8 +32,8 @@ I’m **Emmanuel López**, a passionate Full Stack Developer and **Computer Engi
 
 ## 🌟 Featured Projects
 
-- [Plataforma de Empleos](https://github.com/Emmanuelcik/PlataformaDeEmpleos) —  One of my favorite projects was the "Plataforma de Empleos" which build an application using MVC. Was one of my first big projects.
-- [Up Task](https://github.com/Emmanuelcik/up-task-be) — When I learned newer technologies, I created a full stack application using clean and scalable code.
+- [Plataforma de Empleos](https://github.com/Emmanuelcik/PlataformaDeEmpleos) —  One of my favorite projects was the "Plataforma de Empleos" which builds an application using MVC. Was one of my first big projects.
+- [Up Task BE](https://github.com/Emmanuelcik/up-task-be) [Up Task FE](https://github.com/Emmanuelcik/up-task-ui) — When I learned newer technologies, I created a full stack application using clean and scalable code.
 - [Personal Portfolio](https://github.com/) — This is really fast application that shows more about my experience in this tech world.
 
 *Check out my ******[repositories](https://github.com/Emmanuelcik?tab=repositories)****** for more!* 🎉
